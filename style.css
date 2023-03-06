@@ -1,0 +1,105 @@
+table {
+    border: solid black;
+    border-collapse: collapse;
+    margin:50px;
+
+}
+
+td,tr {
+    border: solid black;
+    padding: 5px;
+
+}
+
+.liczby {
+    list-style: decimal;
+    font-size: 25px;
+
+}
+
+.minus {
+    font-size: 100px;
+    margin-left: 100px;
+}
+
+.dzie {
+    font-size: 80px;
+    margin-left: 50px;
+
+}
+
+.jed {
+    font-size: 80px;
+    margin-left: 80px;
+
+}
+
+.link {
+    font-size: 40px;
+}
+
+.kwad1 {
+    border-color: white;
+    background-color: blue;
+    padding: 20px;
+    border-width: 10px;
+}
+
+.kwad2 {
+    border-width: 25px;
+    border-color: green;
+    background-color: blue;
+    padding: 20px
+}
+.kwad3 {
+  background-color: red;
+  padding: 100px 100px ;
+  height: 40px;
+ width: 40px;
+ border-radius: 180px;
+ margin-left: 60px;
+
+}
+
+
+
+.kwad4 {
+    background-color: blue;
+    padding: 50px 50px ;
+    height: 20px;
+   width: 20px;
+   border-radius: 180px;
+   margin-left: 120px;
+  margin-top: -150px;
+
+
+}
+
+.kwad5 {
+    background-color: green;
+    padding: 75px 75px ;
+    height: 30px;
+   width: 30px;
+   border-radius: 180px;
+   margin-left: 90px;
+  margin-top: -210px;
+}
+
+.niew {
+    border-color: white;
+    background-color: white;
+    padding: 20px
+
+}
+
+.obraz1 {
+    margin-left: 5px;
+}
+
+.obraz2 {
+    margin-left: 45px;
+}
+
+.td1 {
+    background-color: green;
+}
